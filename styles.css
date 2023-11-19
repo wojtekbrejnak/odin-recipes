@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: rgb(249, 171, 75);
+}
+h1 {
+    color: 	yellow;
+    background-color: darkorange;
+    border: 15px double yellow;
+    width: 130px;
+    text-align:center;
+}
+h2 {
+    background-color: darkorange;
+    color: white;
+}
+h3 {
+    border: 4px dotted white;
+    color: 	#5f3715;;
+}
+
+a {
+    display: block;
+    background-color: rgb(244, 126, 0);
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 3px #ffffff;
+    border-radius: 20px;
+}
+
+a:hover {
+    border: solid 3px red;
+}
+
+#credit {
+    background-color: red;
+    width: 100px;
+}
+
+#feel {
+    background-color: yellow;
+    color:rgb(136, 72, 0);
+}

@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    background-color: rgb(249, 171, 75);
+}
+
+img {
+    width: 80%;
+    height: auto;
+    border-radius: 420px;
+    border: 13px dotted yellow;
+}
+
+h1 {
+    background-color: darkorange;
+    border: 4px solid white;
+    border-left: none;
+    border-right: none;
+    color: white;
+}
+h2 {
+    background-color: coral;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    border-radius: 200px;
+    background-color: white;
+    text-decoration: none;
+    padding: 6px;
+    color: darkorange;
+}
+
+a:hover{
+    color:red;
+}
+
+ul,
+ol {
+    background-color: lightcoral;
+    border-radius: 20px;
+    padding: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+h4 {
+    text-align: center;
+}
+
+#desc {
+    text-align:center;
+    background-color: yellow;
+    color: chocolate;
+}
